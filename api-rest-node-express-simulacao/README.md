@@ -10,10 +10,3 @@ Api Rest em Node.js e Express utilizando funções para simular requisições
     <img src="https://img.shields.io/badge/-Express-white?style=for-the-badge" alt="Express">
 </div>
 
-### Desenvolvedor:
-
-* Alvaro Santos
-
-## Contato
-
-[![LinkedIn][linkedin-shield]][linkedin-url]
