@@ -1,7 +1,7 @@
-# Api-Rest-Node-Simulacao
+# Api-Rest-Node-Express-Simulacao
 
 ```sh
-Api Rest em Node.js utilizando funções para simular requisições
+Api Rest em Node.js e Express utilizando funções para simular requisições
 ```
 
 <div align="left">
