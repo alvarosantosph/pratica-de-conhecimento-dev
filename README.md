@@ -1,5 +1,3 @@
-# pratica-de-conhecimento-dev
-
 # Prática de Conhecimento DEV
 
 ```sh
