@@ -9,4 +9,4 @@ Este repositório é referente ao curso da [DevMasterTeam](http://www.devmastert
 - Pasta [Website](https://github.com/DevMasterTeam/Udemy-Git/tree/master/Website) contém o código fonte para a página Web estática usada de exemplo no curso.
 - Outras pastas, nomeadas de acordo com cada seção, se encontram os slides em formato PDF.
 
-## Comandos Básicos Git:
+### Comandos Básicos Git:
