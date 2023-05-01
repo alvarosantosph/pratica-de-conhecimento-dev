@@ -10,3 +10,80 @@ Este repositório é referente ao curso da [DevMasterTeam](http://www.devmastert
 - Outras pastas, nomeadas de acordo com cada seção, se encontram os slides em formato PDF.
 
 ### Comandos Básicos Git:
+
+git --version : Ver a versão do git instalada
+
+git init : Inicializar um novo repositório
+
+git config --global user.name : Adicionar um username
+
+git config --global user.email : Adicionar um e-mail
+
+git config --list : Listar configurações
+
+git status : Verificar se existem commits ou mudanças no repositório
+
+git add : Adicionar arquivo para o git rastrear
+
+git add . : Adicionar arquivos para o git rastrear
+
+git rm --cached arquivo : Remover arquivo do rastreamento do git
+
+git rm --cached -r . arquivo : Remover arquivos do rastreamento do git
+
+git restore --staged arquivo : Remover arquivo do rastreamento do git, mas precisa de um ponto de restauração (commit)
+
+git commit -m "Mensagem" : Criar um commit (Versões)
+
+git diff :  é usado para mostrar as diferenças entre o diretório de trabalho 
+e o último commit. Isso significa que ele mostrará as alterações que você fez 
+no seu repositório desde o último commit.
+
+git diff --cached || git diff --staged :  é usado para mostrar as diferenças 
+entre o índice (também conhecido como staging area) e o último commit. 
+Isso significa que ele mostrará as alterações que você adicionou ao índice 
+desde o último commit, mas ainda não foram confirmadas em um novo commit.
+
+git log : Listagem dos commits na ordem decrescente (Commit, autor, data e comentário)
+
+git log --oneline : Listagem dos commits resumidos (Hash e Comentário)
+
+git log -1 : Ver 1 commit e assim por diante
+
+git log --online -1 : Listagem de 1 commit resumidos (Hash e Comentário)
+
+git log -p (patch) : git log + Modificações
+
+git log --stat : git log + Arquivos alterados
+
+git log --shortstat : git log + Arquivos alterados resumidos (não informa o arquivo)
+
+git commit --amend -m "Mensagem alterada" : Alterar mensagem do último commit
+
+git commit --amend --no-edit : Alterar último commit sem alterar a mensagem
+
+git checkout af1c949 (hash) : Ver versões anteriores de commits (Linha do tempo) (rastreados e modificados)
+
+git checkout : Voltar para a última versão (rastreados e modificados)
+
+git checkout main.txt : Reverter o arquivo para a última versão (rastreados e modificados)
+
+git checkout . : Reverter todos os arquivos para a última versão (rastreados e modificados)
+
+git clean -f (force) : Limpar arquivos não rastreados
+
+git reset --hard :  Usado para resetar o branch atual e a área de staging para o último estado commitado
+
+git update-index --skip-worktree index.html : Forçar o git a parar de rastrear arquivo
+
+git update-index --no-skip-worktree index.html : Forçar o git a voltar a rastrear arquivo
+
+git remote -v : Verificar se repositório está vinculado a um servido remoto
+
+git remote add origin https://github.com/XXX : Vincular um diretório a um servidor remoto
+
+git remote set-url origin https://github.com/XXX : Alterar url do repositório
+
+git push : Enviar para o servidor remoto
+
+git pull : Trazer do servidor remoto
