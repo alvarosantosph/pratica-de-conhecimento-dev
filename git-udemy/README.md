@@ -86,7 +86,7 @@ git remote set-url origin https://github.com/XXX : Alterar url do repositório
 
 git push : Enviar para o servidor remoto
 
-git push --set-upstream origin develop : Criar uma branch no servidor remoto e enviar dados
+git push --set-upstream origin develop || git push -u origin develop : Criar uma branch no servidor remoto e enviar dados
 
 git pull : Trazer do servidor remoto
 
