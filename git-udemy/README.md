@@ -46,6 +46,8 @@ desde o último commit, mas ainda não foram confirmadas em um novo commit.
 
 git log : Listagem dos commits na ordem decrescente (Commit, autor, data e comentário)
 
+git log develop : Listagem dos commits na ordem decrescente de uma branch específica "develop" (Commit, autor, data e comentário)
+
 git log --oneline : Listagem dos commits resumidos (Hash e Comentário)
 
 git log -1 : Ver 1 commit e assim por diante
@@ -102,3 +104,14 @@ git switch - : Volta para a última branch selecionada
 
 git checkout -f develop : Mudar de branch e desfazer alterações rastreadas
 
+git branch -d TASK-1 : Remover branch local
+
+git branch -D TASK-1 : Remover branch local mesmo o git mostrando algum aviso
+
+git push --delete origin TASK-1 : Remover branch remota
+
+git branch -m TASK10 : Alterar o nome da branch estando checkado na mesma
+
+git branch -m TASK10 TASK1 : Alterar o nome da branch não estando checkado na mesma
+
+"Não é possível alterar o nome de uma branch do servidor pelo temrinal"
