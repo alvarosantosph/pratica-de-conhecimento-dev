@@ -119,3 +119,5 @@ git branch -m TASK10 TASK1 : Alterar o nome da branch não estando checkado na m
 git merge develop : Faz o merge da branch develop para a branch que está atualmente checado
 
 git branch --no-merged : Mostrar branchs que não foram mergeadas
+
+git branch --merged: Mostrar branchs que foram mergeadas com a branch checada
