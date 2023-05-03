@@ -117,3 +117,5 @@ git branch -m TASK10 TASK1 : Alterar o nome da branch não estando checkado na m
 "Não é possível alterar o nome de uma branch do servidor pelo temrinal"
 
 git merge develop : Faz o merge da branch develop para a branch que está atualmente checado
+
+git branch --no-merged : Mostrar branchs que não foram mergeadas
