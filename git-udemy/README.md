@@ -121,3 +121,5 @@ git merge develop : Faz o merge da branch develop para a branch que está atualm
 git branch --no-merged : Mostrar branchs que não foram mergeadas
 
 git branch --merged: Mostrar branchs que foram mergeadas com a branch checada
+
+git merge --abort : Desfazer o merge
