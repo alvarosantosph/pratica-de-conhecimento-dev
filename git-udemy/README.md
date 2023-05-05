@@ -123,3 +123,9 @@ git branch --no-merged : Mostrar branchs que não foram mergeadas
 git branch --merged: Mostrar branchs que foram mergeadas com a branch checada
 
 git merge --abort : Desfazer o merge
+
+git tag v1 : Criação de tag "lightweight" no último commi da branch checada
+
+git tag -a -m "Tag criada V2" v2 : Criação de tag "annotated" no último commi da branch checada, levando uma mensagem a mais e o rastreio de quem criou
+
+git show v2 : Exibir informações da tag
