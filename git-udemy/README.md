@@ -129,3 +129,7 @@ git tag v1 : Criação de tag "lightweight" no último commi da branch checada
 git tag -a -m "Tag criada V2" v2 : Criação de tag "annotated" no último commi da branch checada, levando uma mensagem a mais e o rastreio de quem criou
 
 git show v2 : Exibir informações da tag
+
+git tag || git tag -l || git tag --list - Exibe tags
+
+git tag -n - Exibe tags com a sua descrição
