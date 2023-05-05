@@ -161,3 +161,5 @@ git stash pop stash@{1} : Aplica e Remover stash específico
 git stash drop : Remover stash sem aplicar (Stash 0 - Primeiro Stash)
 
 git stash drop stash@{1} : Remover stash específico sem aplicar
+
+git stash branch feature-1 : Criar branch a partir de um stash e aplica as mudanças
