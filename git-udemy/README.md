@@ -150,4 +150,14 @@ git stash : Área para salvar mudanças salvas rastreadas
 
 git stash list : Listar mudanças rastreadas
 
-git stash apply : Retornar mudanças do stash
+git stash apply : Retornar mudanças do stash (Stash 0 - Primeiro Stash)
+
+git stash apply stash@{1} : Retornar mudança para stash específico
+
+git stash pop : Aplica e Remove o primeiro stash
+
+git stash pop stash@{1} : Aplica e Remover stash específico
+
+git stash drop : Remover stash sem aplicar (Stash 0 - Primeiro Stash)
+
+git stash drop stash@{1} : Remover stash específico sem aplicar
