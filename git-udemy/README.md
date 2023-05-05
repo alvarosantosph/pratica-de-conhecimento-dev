@@ -133,3 +133,7 @@ git show v2 : Exibir informações da tag
 git tag || git tag -l || git tag --list : Exibe tags
 
 git tag -n : Exibe tags com a sua descrição
+
+git tag V0 "número do commit" : Criar tag para commits antigos
+
+git tag -a -m "Versão 0" V0 "número do commit" : Criar tag para commits antigos
