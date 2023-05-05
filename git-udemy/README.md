@@ -139,3 +139,5 @@ git tag V0 "número do commit" : Criar tag para commits antigos
 git tag -a -m "Versão 0" V0 "número do commit" : Criar tag para commits antigos
 
 git push origin v0 : Enviando tags para o repositório remoto
+
+git push --tags : Enviando várias tags para o repositório remoto
