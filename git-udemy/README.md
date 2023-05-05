@@ -141,3 +141,8 @@ git tag -a -m "Versão 0" V0 "número do commit" : Criar tag para commits antigo
 git push origin v0 : Enviando tags para o repositório remoto
 
 git push --tags : Enviando várias tags para o repositório remoto
+
+git tag -d v1 : Remover tag
+
+git push --delete origin v1 : Remover tag no servidor remoto
+
