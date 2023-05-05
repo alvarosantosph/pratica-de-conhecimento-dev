@@ -130,6 +130,6 @@ git tag -a -m "Tag criada V2" v2 : Criação de tag "annotated" no último commi
 
 git show v2 : Exibir informações da tag
 
-git tag || git tag -l || git tag --list - Exibe tags
+git tag || git tag -l || git tag --list : Exibe tags
 
-git tag -n - Exibe tags com a sua descrição
+git tag -n : Exibe tags com a sua descrição
