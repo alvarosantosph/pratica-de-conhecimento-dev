@@ -146,3 +146,8 @@ git tag -d v1 : Remover tag
 
 git push --delete origin v1 : Remover tag no servidor remoto
 
+git stash : Área para salvar mudanças salvas rastreadas 
+
+git stash list : Listar mudanças rastreadas
+
+git stash apply : Retornar mudanças do stash
