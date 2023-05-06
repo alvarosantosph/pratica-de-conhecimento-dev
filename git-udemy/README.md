@@ -165,3 +165,19 @@ git stash drop stash@{1} : Remover stash específico sem aplicar
 git stash branch feature-1 : Criar branch a partir de um stash e aplica as mudanças
 
 ### Comandos Intermediários e Avançados Git:
+
+git revert HEAD : Reverter último commit
+
+git revert 3ace1a2 : Reverter commit específico
+
+git revert HEAD --no-edit : Reverter a reversão do commit
+
+git reset --hard HEAD : Desfazendo commit do último commit
+
+git reset --hard HEAD~1 : Desfazendo 1 commit
+
+git reset --mixed HEAD~1 : Desfazendo 1 commit mas as alterações não são desfeitas e estão na área de modificação
+
+git reset --soft HEAD~1 : Desfazendo 1 commit mas as alterações não são desfeitas e estão na área de preparação
+
+git commit -a -m "Mensagem" : Adiciona todos os arquivos e commit
