@@ -181,3 +181,33 @@ git reset --mixed HEAD~1 : Desfazendo 1 commit mas as alterações não são des
 git reset --soft HEAD~1 : Desfazendo 1 commit mas as alterações não são desfeitas e estão na área de preparação
 
 git commit -a -m "Mensagem" : Adiciona todos os arquivos e commit
+
+git push --force : Forçar o git a aceitar as minhas mudanças locais e vai sobrescrever o repositório remoto
+
+git push --force-with-lease : Forçar o git a aceitar as minhas mudanças locais e vai sobrescrever o repositório remoto se nenhuma alteração for perdida no processo
+
+git rebase main :  Usado para alterar a base de um branch, aplicando as alterações feitas em um branch em outro branch.
+
+git rebase --abort : Abortar rebase
+
+git rebase --continue : Continuar o rebase após resolução de conflitos
+
+git rebase -i HEAD~3 || --interactive HEAD~3 : Rebase iterativo (Squash - Comprimir commits para somente 1)
+
+git pull --rebase: Realiza um pull e reescreve mudança baseada na branch remota
+
+git fetch : Trazer mudanças do servidor remoto (mas não faz a mesclagem)
+
+git fetch origin develop : Trazer mudanças do servidor remoto (mas não faz a mesclagem) de uma branch específica
+
+git cherry-pick ba48773 : Permite que você selecione um ou mais commits específicos de uma branch e os aplique em outra branch
+
+git bisect : Ajuda a identificar o commit que introduziu um bug em um projeto Git (Utiliza busca binária)
+
+git bisect start : Aguarda informar o commit bom e o commit ruim para iniciar a busca binária
+
+git bisect good bfa22a : Informa o commit bom
+
+git bisect bad bfa22a : Informa o commit ruim
+
+git bisect reset : Para a busca
