@@ -9,6 +9,12 @@ Este repositório é referente ao curso da [DevMasterTeam](http://www.devmastert
 - Pasta [Website](https://github.com/DevMasterTeam/Udemy-Git/tree/master/Website) contém o código fonte para a página Web estática usada de exemplo no curso.
 - Outras pastas, nomeadas de acordo com cada seção, se encontram os slides em formato PDF.
 
+https://www.udemy.com/certificate/UC-06d4f4d3-e92f-42bc-b22d-c2f81406208a/
+
+<p align="center">
+  <img src="https://github.com/alvarosantosph/pratica-de-conhecimento-dev/blob/main/git-udemy/certificado-udemy-git.jpg">
+</p>
+
 ### Comandos Básicos Git:
 
 git --version : Ver a versão do git instalada
