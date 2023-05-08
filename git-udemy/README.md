@@ -192,7 +192,7 @@ git rebase --abort : Abortar rebase
 
 git rebase --continue : Continuar o rebase após resolução de conflitos
 
-git rebase -i HEAD~3 || --interactive HEAD~3 : Rebase iterativo (Squash - Comprimir commits para somente 1)
+git rebase --interactive HEAD~3 : Rebase iterativo (Squash - Comprimir commits para somente 1)
 
 git pull --rebase: Realiza um pull e reescreve mudança baseada na branch remota
 
