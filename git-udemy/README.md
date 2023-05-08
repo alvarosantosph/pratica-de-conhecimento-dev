@@ -211,3 +211,5 @@ git bisect good bfa22a : Informa o commit bom
 git bisect bad bfa22a : Informa o commit ruim
 
 git bisect reset : Para a busca
+
+git config --global alias.s status : Adicionar um alias para o comando status : git s
