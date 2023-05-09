@@ -82,7 +82,3 @@ Projeto foi desenvolvido durante a **[Semana Tranformação.DEV](https://transfo
 ## License
 
 Esse projeto está sob a [licença MIT](LICENSE.md).
-
----
-
-Cod3r com ❤️ -  [Nossa Comunidade no Discord](https://discord.gg/JexVkcc3vr)
