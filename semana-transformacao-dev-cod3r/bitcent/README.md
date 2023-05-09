@@ -24,14 +24,7 @@ Lista de tecnologias utilizadas no projeto:
 
 ## Executando o projeto
 
-1. Clone o repositório:
-
-```bash
-$ git clone https://github.com/transformacaodev/bitcent
-$ cd bitcent
-```
-
-2. Crie um projeto no Firebase e ative o Firestore e Autenticação com Google.
+1. Crie um projeto no Firebase e ative o Firestore e Autenticação com Google.
 
 - Permissões do Firestore:
 
