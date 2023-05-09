@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/-Firebase-orange?style=for-the-badge" alt="Firebase">
 </div>
 
-Este repositório é referente ao evento oferecido gratuitamente pela plataforma [Cod3r](https://www.cod3r.com.br/).
+Este repositório é referente ao evento Transformação DEV oferecido gratuitamente pela plataforma [Cod3r](https://www.cod3r.com.br/).
 
 https://www.cod3r.com.br/
 
