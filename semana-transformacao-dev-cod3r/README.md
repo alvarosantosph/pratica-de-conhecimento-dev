@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/-CSS3-blue?style=for-the-badge" alt="CSS3">
   <img src="https://img.shields.io/badge/-Tailwind-deepskyblue?style=for-the-badge" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge" alt="Javascript">
-  <img src="https://img.shields.io/badge/-Typescript-deepskyblue?style=for-the-badge" alt="Typescript">
+  <img src="https://img.shields.io/badge/-Typescript-blue?style=for-the-badge" alt="Typescript">
   <img src="https://img.shields.io/badge/-Node.js-green?style=for-the-badge" alt="Node.js">
   <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge" alt="React">
   <img src="https://img.shields.io/badge/-Mantine-deepskyblue?style=for-the-badge" alt="Mantine">
