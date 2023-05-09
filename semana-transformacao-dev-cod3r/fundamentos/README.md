@@ -9,13 +9,7 @@ Lista de tecnologias utilizadas no projeto:
 
 ## Executando o projeto
 
-1. Clone o repositório:
-
-```bash
-$ cd fundamentos
-```
-
-2. Dentro da pasta do projeto, execute os comandos abaixo:
+Dentro da pasta do projeto, execute os comandos abaixo:
 
 ```bash
 # Instalar as dependências
