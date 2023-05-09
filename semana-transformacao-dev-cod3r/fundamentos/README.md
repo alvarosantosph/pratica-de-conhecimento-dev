@@ -11,7 +11,6 @@ Lista de tecnologias utilizadas no projeto:
   <img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge" alt="Next.js">
   <img src="https://img.shields.io/badge/-Typescript-blue?style=for-the-badge" alt="Typescript">
   <img src="https://img.shields.io/badge/-Tailwind-deepskyblue?style=for-the-badge" alt="Tailwind CSS">
-
 </div>
 
 - [React](https://reactjs.org)
