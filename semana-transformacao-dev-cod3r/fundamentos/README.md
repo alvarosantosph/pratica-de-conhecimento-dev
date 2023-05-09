@@ -1,3 +1,7 @@
+<h2 align="center">
+    <img alt="Fundamentos" src="https://github.com/alvarosantosph/pratica-de-conhecimento-dev/blob/main/semana-transformacao-dev-cod3r/fundamentos/cover.svg" />
+</h2>
+
 ## Tecnologias
 
 Lista de tecnologias utilizadas no projeto:
