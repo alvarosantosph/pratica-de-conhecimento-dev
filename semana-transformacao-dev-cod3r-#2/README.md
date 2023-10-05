@@ -4,7 +4,7 @@
 
 # Transformação DEV
 
-Este repositório é referente ao evento Transformação DEV oferecido gratuitamente pela plataforma [Cod3r](https://www.cod3r.com.br/), que ocorreu nos dias 8 a 12 de Maio de 2023.
+Este repositório é referente ao evento Transformação DEV oferecido gratuitamente pela plataforma [Cod3r](https://www.cod3r.com.br/), que ocorreu nos dias 2 a 8 de Outubro de 2023.
 
 https://www.cod3r.com.br/
 
@@ -12,21 +12,18 @@ https://www.transformacao.dev/
 
 ### Episódio 1
 
-Panorama Web
+Modelagem Rica
 
 ### Episódio 2
 
-Princípios Aplicados
+Fluxos Explícitos
 
 ### Episódio 3
 
-Desconstruir uma APP
+Integração com Frameworks
 
-### Episódio 4.1
+### Episódio 4
 
-Const. APP Simples
+Perguntas e Respostas
 
-### Episódio 4.2
-
-Const. APP Completa
 
