@@ -1,0 +1,17 @@
+{
+  "name": "app",
+  "module": "src/index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/uuid": "^9.0.4",
+    "bun-types": "latest",
+    "prisma": "^5.4.1"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@prisma/client": "5.4.1",
+    "uuid": "^9.0.1"
+  }
+}
